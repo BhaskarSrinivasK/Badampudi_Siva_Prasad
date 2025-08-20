@@ -1,2 +1,2 @@
 # Badampudi_Siva_Prasad
-Personal Web page of My Friend.
+This is a portifolio page for my friend.
